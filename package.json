@@ -1,0 +1,15 @@
+{
+  "name": "poc-agenda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "agenda": "^0.8.1",
+    "moment": "^2.14.1"
+  }
+}
